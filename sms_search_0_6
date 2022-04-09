@@ -3,7 +3,7 @@
 #Search for text into SFOS messages.
 
 #Script from
-#
+#https://github.com/Ric9k-TMO-FSO/SFOS_SMS_Search
 
 import sqlite3
 import sys # For variables passed to the script
