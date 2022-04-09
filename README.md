@@ -35,3 +35,5 @@ This list displays:
 Unfortunately, to use the name filter function or display the correspondant's name, you'll have to tick "run as root". 
 
 Always inspect the script before doing such a thing.
+
+This script is shared without warranties. It works on my phone but might harm yours.
