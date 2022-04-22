@@ -15,8 +15,8 @@ Copy this script to your favourite place on the phone.
 
 Install python3-sqlite.
 
-cd to the dir where you copied it and change the ownership so you can use/edit it: ```chown 100000:100000 ./sms_find_0_6.py```
-Make it executable with ```chmod +x ./sms_find_0_6.py```.
+cd to the dir where you copied it and change the ownership so you can use/edit it: ```chown 100000:100000 ./sms_find_[version number].py```
+Make it executable with ```chmod +x ./sms_find_[version number].py```.
 
 Install qCommand and create an entry for it: enter the path where you stored the script and click "Interactive" so you can enter keywords to search for into the terminal window it will automatically open.
 
