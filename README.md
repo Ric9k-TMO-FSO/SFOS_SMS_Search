@@ -12,7 +12,7 @@ Remarks and suggestions are welcome.
 
 ## Some tips
 Copy this script to your favourite place on the phone.
-
+Install python3-sqlite
 cd to the dir where you copied it and change the ownership so you can use/edit it: ```chown 100000:100000 ./sms_find_0_6.py```
 Make it executable with ```chmod +x ./sms_find_0_6.py```.
 
