@@ -81,7 +81,6 @@ msgConnection = sqlite3.connect(msgDb)
 msgCursor = msgConnection.cursor()
 
 if 'root' in whoAmI:
-    print('hello root')
     contactConnection = sqlite3.connect(contactsDb)
     contactCursor = contactConnection.cursor()
 
