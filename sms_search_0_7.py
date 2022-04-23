@@ -20,11 +20,8 @@ lastNameString = ''
 
 userHome=os.environ['HOME']
 msgDb = userHome+'/.local/share/commhistory/commhistory.db' #Real
-print(msgDb)
-print(os.environ['HOME'])
-#msgDb = './commhistory.db' #Test
+
 contactsDb = userHome+'/.local/share/system/privileged/Contacts/qtcontacts-sqlite/contacts.db' #Real
-#contactsDb = './contacts.db' #Test
 
 #Check if executed as root
 command = ("whoami")
